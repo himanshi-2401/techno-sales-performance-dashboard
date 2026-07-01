@@ -23,7 +23,7 @@ This project presents an interactive Power BI dashboard to analyze techno sales 
 - Supervisors showed different sales performances.
 
 ## Dashboard Preview
-(Techno-Sales_Dashboard.jpeg)
+![Techno Sales Dashboard](Techno-Sales_Dashboard.jpeg)
 
 ## Files Included
 - `.pbix` file
